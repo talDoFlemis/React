@@ -3,8 +3,10 @@
 	url = https://github.com/talDoFlemis/donosdabala.git
 [submodule "quizlet-2.0"]
 	path = quizlet-2.0
-	url = https://github.com/talDoFlemis/quizlet-2.0.git
-	
+	url = https://github.com/talDoFlemis/quizlet-2.0.git	
 [submodule "budget"]
 	path = budget
 	url = https://github.com/talDoFlemis/budget.git
+[submodule "spotify-clone"]
+	path = spotify-clone
+	url = https://github.com/talDoFlemis/spotify-clone.git
